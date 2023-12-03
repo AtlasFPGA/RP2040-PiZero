@@ -11,7 +11,8 @@ Ruta de las señales asociadas al bus de programación y depurado JTAG:
 ALMA-FIRMWARE-MASTER -> src -> jtag.h										
 
           
-|definicion|Nombre variables	|Valores	Guillermo AMAT| Valores		RP2040-PiZero|											
+|definicion|Nombre variables	|Valores	Guillermo AMAT| Valores		RP2040-PiZero|	
+| ----- | ---- |----- |----- | ---- |
 |#define 	|PIN_TCK |	2     |		17	 |				
 |#define 	|PIN_TDI |	4	    |	  22	 |		
 |#define 	|PIN_TMS |	5     |		14	 |			
@@ -22,7 +23,8 @@ ALMA-FIRMWARE-MASTER -> src -> jtag.h
 Ruta asociada a las señales de la micro sd incorporada en la RP2040-PiZero:										
 ALMA-FIRMWARE-MASTER ->  src -> configuration -> pico -> ST7735 ->User_Setup.h										
 										
-|definicion|Nombre variables	|Valores	Guillermo AMAT| Valores		RP2040-PiZero| explicación señal|					
+|definicion|Nombre variables	|Valores	Guillermo AMAT| Valores		RP2040-PiZero| explicación señal|	
+| ----- | ---- |----- |----- | ---- |
 |#define 	 |TFT_SCLK	| 10	|	18				| //18//PIN_SPI_SCK //14                           |		
 |#define 	 |TFT_MOSI	| 11	|	19				| //19//PIN_SPI_MOSI//15                           |		
 |#define 	 |TFT_MISO	| 12	|	20				| //16//PIN_SPI_MISO//10                           |		
