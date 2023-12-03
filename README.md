@@ -11,8 +11,8 @@ Ruta de las señales asociadas al bus de programación y depurado JTAG:
 ALMA-FIRMWARE-MASTER -> src -> jtag.h										
 
           
-|definicion|Nombre variables	|Valores	Guillermo AMAT| Valores		RP2040-PiZero|	
-| ----- | ---- |----- |----- | ---- |
+| definicion |Nombre variables	| Valores	Guillermo AMAT| Valores		RP2040-PiZero|	
+| ----- | ---- |----- | ---- |
 |#define 	|PIN_TCK |	2     |		17	 |				
 |#define 	|PIN_TDI |	4	    |	  22	 |		
 |#define 	|PIN_TMS |	5     |		14	 |			
