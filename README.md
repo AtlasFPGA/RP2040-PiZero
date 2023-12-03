@@ -38,3 +38,10 @@ ALMA-FIRMWARE-MASTER ->  src -> configuration -> pico -> ST7735 ->User_Setup.h
 Pueden consultar los valores asociados a la RP2040-Pizero de wavesare de una forma más visual en el siguiente enlace de google documentos.
 
 https://docs.google.com/spreadsheets/d/1McALQf85XnruqYqf6eDq89t5m_BvRBwcVS2hHGKuhcs/edit?usp=sharing
+
+Foto de la combinación de las 3 placas,TRENZ CYC1000, WAVESHARE RP2040-PiZero con la I/O Board ATLAS:
+
+Montaje último prototipo:
+
+![Montaje último prototipo](https://github.com/AtlasFPGA/RP2040-PiZero/blob/main/FOTOS/Ultimo_prototipo_RP2040VIDEO.JPG)
+
