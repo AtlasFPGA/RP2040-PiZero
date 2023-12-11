@@ -3,6 +3,9 @@
 Adaptación del Multicore por HDMI/spi-tft ALMA de Guillermo Amat a la placa RP2040 con 16Mbytes de SPIFLASH de la marca WAVESHARE.
 Se ha escogido esta placa dado que trae todos los puertos necesarios y aquí se discutirán los cambios a realizar.
 
+https://t.me/INICIATIVAATLAS -> El grupo ATLAS esta en Telegram pueden encontrarnos allí, Group ATLAS in Telegram
+
+
 Posición del marco de trabajo así como el multicore y la primera versión de caja 3D, asociada al modelo I/O Board ATLAS V002 sin puerto de carga de casete "EAR".
 
 https://gitlab.com/fpga-boards
