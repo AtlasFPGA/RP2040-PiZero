@@ -8,6 +8,19 @@ https://t.me/INICIATIVAATLAS -> El grupo ATLAS esta en Telegram pueden encontrar
 
 Posición del marco de trabajo así como el multicore y la primera versión de caja 3D, asociada al modelo I/O Board ATLAS V002 sin puerto de carga de casete "EAR".
 
+Los pines asociados a el puerto serie con una tensión de +3V3 son:
+
+
+|Nombre variable | RP2040_GPIO |
+|-----|-----|
+|TX_BUS_PI|RP2040_GPIO4|
+|RX_BUS_PI|RP2040_GPIO5|
+
+Adaptar el firmware para RP2040 usb-serie del siguiente repositorio.
+https://github.com/ChinaQMTECH/DB_FPGA_with_RP2040
+
+Todos las implementaciones que usan un serie pueden adaptando la salida a esta configuración serie { 9600-8-N-1 }.  
+
 https://gitlab.com/fpga-boards
 
 Información de donde están colocados los ficheros cabeceras para adaptar desde el diseño de Guillermo  Amat, y migrarlo a la RP2040-PiZero.										
